@@ -1,0 +1,1 @@
+This project is for homework purposes. It follows Epicodus's material on Ruby that can be found [here](https://www.learnhowtoprogram.com/ruby-and-rails/test-driven-development-with-ruby/scrabble-score-numbers-to-words).
